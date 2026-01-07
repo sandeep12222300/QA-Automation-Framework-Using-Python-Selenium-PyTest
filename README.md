@@ -16,11 +16,11 @@
   <em>This framework follows the Page Object Model (POM) design pattern to ensure maintainable and reusable test code.</em>
 </p>
 
-[Features](#-features) •
-[Project Structure](#-project-structure) •
-[Installation](#-installation) •
-[Usage](#-usage) •
-[Contributing](#-contributing)
+[Features](#features) •
+[Project Structure](#project-structure) •
+[Installation](#installation) •
+[Usage](#usage) •
+[Contributing](#contributing)
 
 </div>
 
