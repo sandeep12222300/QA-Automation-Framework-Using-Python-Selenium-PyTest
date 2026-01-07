@@ -212,6 +212,16 @@ def test_login(browser):
 
 All screenshots are stored in the `screenshots/` directory.
 
+### Example Screenshots
+
+#### Valid Login Test
+![Valid Login Screenshot](screenshots/valid_login.png)
+*Screenshot captured during a successful login test*
+
+#### Invalid Login Test
+![Invalid Login Screenshot](screenshots/invalid_login.png)
+*Screenshot captured during an invalid login attempt test*
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
